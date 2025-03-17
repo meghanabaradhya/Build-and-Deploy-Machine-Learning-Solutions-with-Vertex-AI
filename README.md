@@ -20,4 +20,3 @@ This project trains a BERT-based sentiment classifier and saves the model locall
 4. The trained model will be saved in:
    ```
    ./bert-sentiment-classifier-local
-  ```
