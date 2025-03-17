@@ -10,14 +10,14 @@ This project trains a BERT-based sentiment classifier and saves the model locall
    ```bash
    git clone <repo-url>
    cd bert-sentiment-classifier
-  ```
+
 2.Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3.Run the notebook cells step by step to train and evaluate the BERT model.
 
 4. The trained model will be saved in:
    ```
    ./bert-sentiment-classifier-local
-```
+  ```
